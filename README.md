@@ -1,2 +1,1 @@
-# playtime
-fun for the dogs!
+TinDog Starting Files
